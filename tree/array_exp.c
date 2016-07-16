@@ -1,4 +1,6 @@
 /* Program to represent a postfix expression as a tree */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<string.h>

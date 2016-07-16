@@ -1,4 +1,6 @@
 /* Program to implement single linked list */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<stdlib.h>

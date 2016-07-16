@@ -1,4 +1,7 @@
 /* Program to reverse a string using stack */
+/* Code by Maseera Ali
+   13BCS0032             */
+
 #include <stdio.h>
 
 int top=-1;

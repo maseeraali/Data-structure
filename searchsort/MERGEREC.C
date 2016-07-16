@@ -1,4 +1,6 @@
 /* Program to implement merge sort. */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<conio.h>

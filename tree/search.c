@@ -1,4 +1,6 @@
-//Program to search a data in a binary search tree 
+//Program to search a data in a binary search tree
+/* Code by Maseera Ali
+   13BCS0032             */ 
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,4 +1,7 @@
 /* Program to Evaluate Postfix Notation */
+/* Code by Maseera Ali
+   13BCS0032             */
+
 #include<stdio.h>
 #include<string.h>
 #include<math.h>

@@ -1,4 +1,6 @@
 /* Program to split a circular linked list into two small circular linked list. */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<stdlib.h>

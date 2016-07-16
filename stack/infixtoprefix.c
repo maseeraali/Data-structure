@@ -1,4 +1,7 @@
 /* Convert infix expression to prefix expression*/
+/* Code by Maseera Ali
+   13BCS0032             */
+
 #include<stdio.h>
 #include<string.h>
 #define MAX 20

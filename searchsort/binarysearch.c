@@ -1,4 +1,7 @@
 /* Program to implement binary search on an array */ 
+/* Code by Maseera Ali
+   13BCS0032             */
+
 #include<stdio.h>
 int n,arr[20];
 void binsearch()

@@ -1,4 +1,6 @@
 // Program to find kth maximum and minimum data in a binary search tree
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include <stdio.h>
 #include <stdlib.h>

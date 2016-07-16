@@ -1,4 +1,6 @@
 /* Program to implement the breadth first search in a graph. */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #define MAX 5

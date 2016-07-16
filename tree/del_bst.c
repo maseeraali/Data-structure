@@ -1,4 +1,6 @@
 // Program to delete a node in a binary search tree 
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include <stdio.h>
 #include <stdlib.h>

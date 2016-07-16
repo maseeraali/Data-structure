@@ -1,5 +1,6 @@
 /* Circular queue using array */
-
+/* Code by Maseera Ali
+   13BCS0032             */
    #include <stdio.h>
    #include <stdlib.h>
    #define MAX 5

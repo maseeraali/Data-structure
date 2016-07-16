@@ -1,4 +1,7 @@
 /* Operations performed on the stack */
+/* Code by Maseera Ali
+   13BCS0032             */
+
 #include <stdio.h>
 #include <stdlib.h>
 #define maxsize 30

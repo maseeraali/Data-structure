@@ -1,4 +1,6 @@
 /* Program to implement bubble sort on an array */
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<conio.h>

@@ -1,4 +1,6 @@
 // Program to evaluate the expression tree
+/* Code by Maseera Ali
+   13BCS0032             */
 
 #include<stdio.h>
 #include<stdlib.h>
